@@ -472,7 +472,7 @@ header {
 
 .blend {
     width: 100%;
-    background: #fff url(m_2020_xmas_bean_bg.jpg) center no-repeat;
+    background: #fff url(images/m_2020_xmas_bean_bg.jpg) center no-repeat;
     background-size: cover;
     text-align: center;
     padding-top: 18vw;
@@ -519,7 +519,7 @@ header {
 .reserve {
     width: 100%;
     height: 180vw;
-    background: #fff url(m_reserve_xmas_beans.jpg) 0 0 no-repeat;
+    background: #fff url(images/m_reserve_xmas_beans.jpg) 0 0 no-repeat;
     background-size: cover;
     text-align: center;
 }
@@ -553,7 +553,7 @@ header {
 .card {
     width: 100%;
     height: 190vw;
-    background: #fff url(mob_fav_prod_bg_new.jpg) center no-repeat;
+    background: #fff url(images/mob_fav_prod_bg_new.jpg) center no-repeat;
     background-size: cover;
     text-align: center;
     padding-top: 110vw;
@@ -666,7 +666,7 @@ header {
 
 .store {
     width: 100%;
-    background: #e5e5e5 url(store_exp_img03.png) left center no-repeat;
+    background: #e5e5e5 url(images/store_exp_img03.png) left center no-repeat;
     background-size: 50%;
     text-align: center;
     padding-top: 85vw;
